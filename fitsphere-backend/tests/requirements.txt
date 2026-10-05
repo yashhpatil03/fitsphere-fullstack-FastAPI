@@ -1,0 +1,18 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-dotenv
+email-validator
+pwdlib[argon2]
+PyJWT
+fastapi,
+uvicorn,
+sqlalchemy, 
+pydantic-settings,
+pyjwt, 
+pwdlib[argon2],
+email-validator, 
+python-multipart,
+httpx,
+psycopg[binary] (the PostgreSQL driver) 
+pytest.
