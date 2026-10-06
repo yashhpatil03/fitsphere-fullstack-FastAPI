@@ -1,4 +1,5 @@
 # FitSphere - React frontend + FastAPI backend
+https://fitsphere-fullstack-fast-api-epww-git-main-yash-30f5.vercel.app/login
 
 ## Quick start (Windows)
 Requirements: Python 3.12+, Node.js 20+, PostgreSQL running with your `fitsphere` database.
